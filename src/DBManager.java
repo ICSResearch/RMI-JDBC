@@ -3,7 +3,7 @@ import java.util.Vector;
 
 public class DBManager {
     private static final String userName = "root";
-    private static final String password = "shen262144";
+    private static final String password = "*Your password*";
     private static final String url = "jdbc:mysql://localhost:3306/rmidb?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
 
     static Connection conn = null;
